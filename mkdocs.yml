@@ -2,11 +2,11 @@ site_name: DevOps Operations Handbook
 site_description: Учебная документация по проверке и публикации изменений
 site_author: Васильева Наталья
 repo_name: gytory/devops-docs
-repo_url: https://github.com/<login>/devops-docs
+repo_url: https://github.com/gytory/devops-docs
 theme:
- name: mkdocs
- locale: ru
+  name: mkdocs
+  locale: ru
 nav:
- - Главная: index.md
- - Эксплуатация: runbook.md
- - Журнал инцидентов: incidents.md
+  - Главная: index.md
+  - Эксплуатация: runbook.md
+  - Журнал инцидентов: incidents.md
